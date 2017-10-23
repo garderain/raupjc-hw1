@@ -1,0 +1,6 @@
+C:\Users\garderain\Documents\Visual Studio 2017\Projects\raupjccHw1\Zadatak2Klasa\bin\Debug\GenericLIst.dll
+C:\Users\garderain\Documents\Visual Studio 2017\Projects\raupjccHw1\Zadatak2Klasa\bin\Debug\GenericLIst.pdb
+C:\Users\garderain\Documents\Visual Studio 2017\Projects\raupjccHw1\Zadatak2Klasa\obj\Debug\GenericList.csproj.CoreCompileInputs.cache
+C:\Users\garderain\Documents\Visual Studio 2017\Projects\raupjccHw1\Zadatak2Klasa\obj\Debug\GenericLIst.dll
+C:\Users\garderain\Documents\Visual Studio 2017\Projects\raupjccHw1\Zadatak2Klasa\obj\Debug\GenericLIst.pdb
+C:\Users\garderain\Documents\Visual Studio 2017\Projects\raupjccHw1\Zadatak2Klasa\obj\Debug\GenericList.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\garderain\Documents\Visual Studio 2017\Projects\raupjccHw1\Zadatak1Klasa\obj\Debug\IntegerList.csproj.CoreCompileInputs.cache
+C:\Users\garderain\Documents\Visual Studio 2017\Projects\raupjccHw1\Zadatak1Klasa\bin\Debug\IntegerList.dll
+C:\Users\garderain\Documents\Visual Studio 2017\Projects\raupjccHw1\Zadatak1Klasa\bin\Debug\IntegerList.pdb
+C:\Users\garderain\Documents\Visual Studio 2017\Projects\raupjccHw1\Zadatak1Klasa\obj\Debug\IntegerList.dll
+C:\Users\garderain\Documents\Visual Studio 2017\Projects\raupjccHw1\Zadatak1Klasa\obj\Debug\IntegerList.pdb

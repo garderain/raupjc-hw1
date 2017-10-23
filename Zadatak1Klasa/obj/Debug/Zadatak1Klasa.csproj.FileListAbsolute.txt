@@ -1,0 +1,6 @@
+C:\Users\garderain\Documents\Visual Studio 2017\Projects\raupjccHw1\Zadatak1Klasa\bin\Debug\Zadatak1Klasa.dll
+C:\Users\garderain\Documents\Visual Studio 2017\Projects\raupjccHw1\Zadatak1Klasa\bin\Debug\Zadatak1Klasa.pdb
+C:\Users\garderain\Documents\Visual Studio 2017\Projects\raupjccHw1\Zadatak1Klasa\obj\Debug\Zadatak1Klasa.csprojResolveAssemblyReference.cache
+C:\Users\garderain\Documents\Visual Studio 2017\Projects\raupjccHw1\Zadatak1Klasa\obj\Debug\Zadatak1Klasa.csproj.CoreCompileInputs.cache
+C:\Users\garderain\Documents\Visual Studio 2017\Projects\raupjccHw1\Zadatak1Klasa\obj\Debug\Zadatak1Klasa.dll
+C:\Users\garderain\Documents\Visual Studio 2017\Projects\raupjccHw1\Zadatak1Klasa\obj\Debug\Zadatak1Klasa.pdb
